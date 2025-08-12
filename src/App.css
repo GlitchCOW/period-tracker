@@ -1,0 +1,35 @@
+body{
+  font-family: "charm", cursive;
+  background: #fae8e0;
+  color: #5c4033;
+  text-align: center;
+  margin: 0;
+}
+
+h1{
+  background: #ef7c8e;
+  color: white;
+  padding: 15px;
+  border-radius: 0, 0, 15px, 15px;
+}
+
+section{
+  background: white;
+  border-radius: 15px;
+  padding: 20px;
+  margin: 15px auto;
+  width: 90%;
+  max-width: 400px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+button{
+  background: #ef7c8e;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  cursor: pointer;
+}
+button:hover{
+  background-color: #d96c7c;
+}
